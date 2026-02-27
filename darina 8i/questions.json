@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Сколько будет 2 + 2?",
+    "answers": ["3", "4", "5", "6"],
+    "correct": "4"
+  },
+  {
+    "question": "Столица Франции?",
+    "answers": ["Berlin", "Madrid", "Paris", "Rome"],
+    "correct": "Paris"
+  },
+  {
+    "question": "Какой язык используется в Telegram-ботах?",
+    "answers": ["Java", "Python", "C++", "PHP"],
+    "correct": "Python"
+  }
+]
